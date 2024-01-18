@@ -1,0 +1,5 @@
+﻿  moc khovl.h
+  khovl.cpp
+  main.cpp
+  moc_khovl.cpp
+  khovl.vcxproj -> D:\khovl\x64\Debug\khovl.exe
